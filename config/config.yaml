@@ -1,0 +1,12 @@
+templates_config:
+  templates_dir: templates
+  audios_dir: audios
+  sprites_dir: sprites
+
+root_game_config:
+  fps: 32
+  screen_width: 289
+  screen_height: 511
+  player_name: bird.png
+  background_name: back.png
+  pipe_name: pipe.png

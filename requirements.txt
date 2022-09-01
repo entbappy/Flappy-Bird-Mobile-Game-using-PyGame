@@ -1,3 +1,4 @@
 pygame
 notebook
+PyYAML
 -e .
