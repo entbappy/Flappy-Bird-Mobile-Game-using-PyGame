@@ -1,7 +1,7 @@
 # Flappy-Bird-Mobile-Game-using-PyGame
 Flappy Bird is a mobile game developed by Vietnamese video game artist and programmer Dong Nguyen, under his game development company .Gears. The game is a side-scroller where the player controls a bird, attempting to fly between columns of green pipes without hitting them.
 
-<img src="docs/1.png" alt="workflow" width="70%">
+<img src="docs/1.png" alt="workflow" width="40%">
 
 # How to run?
 ### STEPS:
@@ -35,7 +35,7 @@ python app.py
 
 # Demo:
 
-<img src="docs/2.png" alt="workflow" width="70%">
+<img src="docs/2.png" alt="workflow" width="40%">
 
 
 ## Built With
